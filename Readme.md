@@ -11,4 +11,5 @@ gorm.io/gorm
 ```
 Pgadmin:latest
 Postgres:17
+golang:1.24.3-alpine #ganti aja sesuai stack ente
 ```
